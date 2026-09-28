@@ -1,11 +1,11 @@
 {
- "updated_at": 1790589873,
+ "updated_at": 1790606326,
  "players": [
   {
    "file": "players/15ce2546c2e13405.db.enc",
    "phone_hash": "15ce2546c2e13405",
    "expires_at": 1790675493,
-   "version": 1
+   "version": 2
   }
  ]
 }
